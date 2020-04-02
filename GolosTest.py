@@ -97,7 +97,7 @@ speak_engine.setProperty('voice', voices[0].id)
 # forced cmd test
 speak("My boy did't teach to tell funny story, but is his job")
 
-speak("Golos is HERE")
+speak("Golos is HERE my boy")
 speak("Golos is listening")
 
 stop_listening = r.listen_in_background(m, callback)
